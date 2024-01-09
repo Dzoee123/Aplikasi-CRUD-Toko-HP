@@ -36,6 +36,6 @@ Cara Menggunakan Aplikasi:
    ![Screenshot 2024-01-09 111628](https://github.com/Dzoee123/Aplikasi-CRUD-Toko-HP/assets/137170947/34672ab1-d39e-43ae-8a37-a43b1809531f)
    
 6. untuk penjelasan koding dan demo aplikasi bisa dibuka link youtube berikut
-   link
+   [link](https://youtu.be/j3Hx_h3QyVg?si=ttpKwgfubZnkWK0b)https://youtu.be/j3Hx_h3QyVg?si=ttpKwgfubZnkWK0b
 
 
