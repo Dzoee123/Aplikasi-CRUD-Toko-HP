@@ -2,18 +2,21 @@
 
 Tugas Besar Basis Data Terapan
 
-List anggota kelompok:
-1.
-2.
-3.
-4.
-5.
+List anggota kelompok: 
+1. Damar Riyadi Syahputra (32602200052)
+2. Ella Heriyawati (32602200059)
+3. Franklyn Rama Fitrah Akbar (32602200067)
+4. Gilang Setiawan (32602200068)
+5. Ikharista Ayu Nusrotun A (32602200078)
 
 Keterangan Project:
 Aplikasi Web berbasis PHP yang terhubung dengan mySQL
 didalamnya terdapat mekanisme penambahan data, pengeditan data, lihat data, dan hapus data
 selain itu terdapat Stored Procedure, Stored Function, View, dan Trigger
-
+- Stored Procedure: tambah_produk, tambah_pelanggan, dan tambah_transaksi: menggantikan query tambah data (INSERT) menjadi pemanggilan Stored Procedure
+- Stored Function: jumlah_produk: menghitung total produk yang ada
+- View: jumlah_pembelian: menghitung jumlah pembelian pelanggan yang ada di tabel transaksi
+- Trigger: hapus_transaksi: saat menghapus pelanggan di tabel pelanggan otomatis pelanggan yang ada di tabel transaksi akan ikut terhapus melalui foreign key id_pelanggan
 
 
 Cara Menggunakan Aplikasi:
