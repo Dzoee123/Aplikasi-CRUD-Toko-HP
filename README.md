@@ -32,7 +32,7 @@ Cara Menggunakan Aplikasi:
 5. kemudian buka browser dan masuk ke localhost/toko_hp
    ![Screenshot 2024-01-09 111628](https://github.com/Dzoee123/Aplikasi-CRUD-Toko-HP/assets/137170947/34672ab1-d39e-43ae-8a37-a43b1809531f)
    
-6. untuk demo aplikasi bisa dibuka link youtube berikut
+6. untuk penjelasan koding dan demo aplikasi bisa dibuka link youtube berikut
    link
 
 
