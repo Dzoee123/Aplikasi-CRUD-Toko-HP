@@ -26,10 +26,10 @@ Cara Menggunakan Aplikasi:
 2. import file sql ke dalam database   
    ![Screenshot 2024-01-09 104305](https://github.com/Dzoee123/Aplikasi-CRUD-Toko-HP/assets/137170947/d68296f8-e942-43f6-bf88-473b9059a36c)
 
-3. pindah folder toko_hp yang di dalam nya terdapat folder admin/index.php dan folder config/koneksi.php
+3. pindah folder toko_hp yang di dalam nya terdapat folder admin/index.php dan folder config/koneksi.php ke dalam folder xampp/htdocs
    ![Screenshot 2024-01-09 111436](https://github.com/Dzoee123/Aplikasi-CRUD-Toko-HP/assets/137170947/f398b894-d946-4bad-8d95-25cf72968d07)
    
-4. jangan lupa start apache dan mysql pada xampp
+4. start apache dan mysql pada xampp
    ![Screenshot 2024-01-09 111523](https://github.com/Dzoee123/Aplikasi-CRUD-Toko-HP/assets/137170947/5c849844-addb-4411-9bb9-f1d9e8314e3e)
    
 5. kemudian buka browser dan masuk ke localhost/toko_hp
